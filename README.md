@@ -1,13 +1,13 @@
-### Hello,Salut! 👋
+### Hello, Salut! 👋
 
 📱 I'm a Frontend Developer and I enjoy creating functional apps
-⚡ My key hard skills are: CSS, HTML, JavaScript, React
-▶️ I'm currently graduating from ITGirls school with 5 small projects and also with some solo pet projects
-📫 How to reach me: Linkedin
+<br>⚡ My key hard skills are: CSS, HTML, JavaScript, React
+<br>▶️ I'm currently graduating from ITGirls school with 5 small projects and also with some solo pet projects
+<br>📫 How to reach me: Linkedin
 
-⚡ Fun fact: I'm local writer and I like to generate ideas and write books, (have already 3 published) 
-🌱 I’m currently improving my Frondtend stack base to perform better  
-👯 I believe we shoud empower each other to create better planet 
+<br>⚡ Fun fact: I'm local writer and I like to generate ideas and write books, (have already 3 published) 
+<br>🌱 I’m currently improving my Frondtend stack base to perform better  
+<br>👯 I believe we shoud empower each other to create better planet 
 
 <!--
 **Bemadler/Bemadler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
