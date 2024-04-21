@@ -1,9 +1,17 @@
 ### Hi there 👋
 
+📱 I'm a Frontend Developer and I enjoy creating functional apps
+⚡ My key hard skills are: CSS, HTML, JavaScript, React
+▶️ I'm currently graduating from ITGirls school with 5 small projects and also with some solo pet projects
+📫 How to reach me: Linkedin
+
+⚡ Fun fact: I'm local writer and I like to generate ideas and write books, (have already 3 published) 
+🌱 I’m currently improving my Frondtend stack base to perform better  
+👯 I believe we shoud empower each other to create better planet 
+
 <!--
 **Bemadler/Bemadler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,5 +20,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  Fun fact: ...
 -->
