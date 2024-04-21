@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello,Salut! 👋
 
 📱 I'm a Frontend Developer and I enjoy creating functional apps
 ⚡ My key hard skills are: CSS, HTML, JavaScript, React
