@@ -1,6 +1,6 @@
 Hey, Salut! 👋
 I'm Bermet, a passionate Frontend Developer who loves creating functional and user-friendly apps and websites. I enjoy solving complex problems and continually learning new technologies to enhance my skill set.
-
+<iframe src="https://giphy.com/embed/hpXdHPfFI5wTABdDx9" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-computer-laptop-hello-world-hpXdHPfFI5wTABdDx9">via GIPHY</a></p>
 🚀 About Me
 <br> Key Hard Skills: CSS, HTML, JavaScript, React
 <br> Current Focus: I'm currently expanding my frontend stack to include advanced techniques and frameworks, aiming to improve performance and scalability in my projects.
