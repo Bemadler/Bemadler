@@ -10,7 +10,8 @@ Fun Fact: I'm also a writer with three published books! I love generating creati
 First Place at ItGirls Hackathon: Won first place for the project "Pomogator," which focuses on time management using the Pomodoro technique. See the project:https://marysemm.github.io/Techno-Troglodytes_HackathonRepo/
 
 📫 How to Reach Me
-LinkedIn: Your LinkedIn Profile: https://www.linkedin.com/in/bermet-akerova-01606871/
-Email: akerovab@gmail.com 
+LinkedIn:https://www.linkedin.com/in/bermet-akerova-01606871/
+<br>Email: akerovab@gmail.com
+
 🌟 What I Believe In
 I believe in the power of collaboration and community. By working together, we can create innovative solutions and a happy, inclusive community for everyone.
