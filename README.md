@@ -1,23 +1,16 @@
-### Hello, Salut! 👋
+Hey, Salut! 👋
+I'm Bermet, a passionate Frontend Developer who loves creating functional and user-friendly apps and websites. I enjoy solving complex problems and continually learning new technologies to enhance my skill set.
 
-📱 I'm a Frontend Developer and I enjoy creating functional apps and websites
-<br>⚡ My key hard skills are: CSS, HTML, JavaScript, React
-<br>📫 How to reach me: Linkedin
+🚀 About Me
+Key Hard Skills: CSS, HTML, JavaScript, React
+Current Focus: I'm currently expanding my frontend stack to include advanced techniques and frameworks, aiming to improve performance and scalability in my projects.
+Fun Fact: I'm also a writer with three published books! I love generating creative ideas and expressing them through writing.
 
-<br>⚡ Fun fact: I'm local writer and I like to generate ideas and write books, (have already 3 published) 
-<br>🌱 I’m currently improving my Frondtend stack base to perform better  
-<br>👯 I believe we can empower each other to create happy community  
+🏆 Achievements
+First Place at ItGirls Hackathon: Won first place for the project "Pomogator," which focuses on time management using the Pomodoro technique. See the project:https://marysemm.github.io/Techno-Troglodytes_HackathonRepo/
 
-<!--
-**Bemadler/Bemadler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
--  Fun fact: ...
--->
+📫 How to Reach Me
+LinkedIn: Your LinkedIn Profile: https://www.linkedin.com/in/bermet-akerova-01606871/
+Email: akerovab@gmail.com 
+🌟 What I Believe In
+I believe in the power of collaboration and community. By working together, we can create innovative solutions and a happy, inclusive community for everyone.
