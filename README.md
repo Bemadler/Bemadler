@@ -1,8 +1,7 @@
 ### Hello, Salut! 👋
 
-📱 I'm a Frontend Developer and I enjoy creating functional apps
+📱 I'm a Frontend Developer and I enjoy creating functional apps and websites
 <br>⚡ My key hard skills are: CSS, HTML, JavaScript, React
-<br>▶️ I'm currently graduating from ITGirls school with 5 small projects and also with some solo pet projects
 <br>📫 How to reach me: Linkedin
 
 <br>⚡ Fun fact: I'm local writer and I like to generate ideas and write books, (have already 3 published) 
