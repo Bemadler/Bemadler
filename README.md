@@ -1,7 +1,7 @@
 Hey, Salut! 👋
 I'm Bermet, a passionate Frontend Developer who loves creating functional and user-friendly apps and websites. I enjoy solving complex problems and continually learning new technologies to enhance my skill set.
 
-![giphy (1)](https://github.com/user-attachments/assets/112ed612-ea05-4b17-8d29-6c4ff11041f4=250x250)
+![giphy (1)](https://github.com/user-attachments/assets/112ed612-ea05-4b17-8d29-6c4ff11041f4)
 
 
 🚀 About Me
