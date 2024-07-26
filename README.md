@@ -6,7 +6,7 @@
 
 <br>⚡ Fun fact: I'm local writer and I like to generate ideas and write books, (have already 3 published) 
 <br>🌱 I’m currently improving my Frondtend stack base to perform better  
-<br>👯 I believe we shoud empower each other to create better planet 
+<br>👯 I believe we can empower each other to create happy community  
 
 <!--
 **Bemadler/Bemadler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
